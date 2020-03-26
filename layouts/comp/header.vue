@@ -8,7 +8,7 @@
         <div class="search">
             <input type="text" id="searchArea" class="search-area" @keyup="enterKey"/><button type="button" id="serchBtn" @click="btnClickEvent">Search</button>
         </div>
-        <div>test</div>
+        <div>te</div>
     </div>
 </template>
 <script>
